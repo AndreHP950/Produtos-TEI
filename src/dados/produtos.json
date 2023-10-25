@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "nome": "Roupa menino 1",
+    "preco": 99.99,
+    "descricao": "descricao do produto x",
+    "avaliacao": "⭐⭐⭐⭐",
+    "categoria": "menino",
+    "hover": "Produto recomendado para meninos",
+    "imagem": "src/assets/imagens/nubank.jpg"
+  },
+
+  {
+    "id": 3,
+    "nome": "Roupa menino 2",
+    "preco": 49.99,
+    "descricao": "descricao do produto x",
+    "avaliacao": "⭐⭐⭐",
+    "categoria": "menino",
+    "hover": "Produto recomendado para meninos",
+    "imagem": "src/assets/imagens/menino.jpg"
+  },
+
+  {
+    "id": 7,
+    "nome": "Roupa menina 1",
+    "preco": 39.99,
+    "descricao": "descricao do produto x",
+    "avaliacao": "⭐⭐⭐⭐",
+    "categoria": "menina",
+    "hover": "Produto recomendado para meninas",
+    "imagem": "src/assets/imagens/picpay.jpg"
+  },
+  {
+    "id": 10,
+    "nome": "Roupa menina 2",
+    "preco": 29.99,
+    "descricao": "descricao do produto x",
+    "avaliacao": "⭐⭐",
+    "categoria": "credito/debito",
+    "hover": "Produto recomendado para meninas legais",
+    "imagem": "src/assets/imagens/pan.jpg"
+  },
+  {
+    "id": 11,
+    "nome": "Roupa menino 3",
+    "preco": 20.99,
+    "descricao": "descricao do produto x",
+    "avaliacao": "⭐",
+    "categoria": "credito",
+    "hover": "Produto recomendado para meninos felizes",
+    "imagem": "src/assets/imagens/amex.jpg"
+  },
+  {
+    "id": 12,
+    "nome": "Roupa menina 3",
+    "preco": 19.99,
+    "descricao": "descricao do produto x",
+    "avaliacao": "⭐⭐⭐⭐⭐",
+    "categoria": "debito",
+    "hover": "Produto recomendado para esportes",
+    "imagem": "src/assets/imagens/menina.jpg"
+  }
+]
+
